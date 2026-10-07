@@ -1,0 +1,4 @@
+checkpoint,device,batch_size,warmup_iterations,measured_iterations,mean_ms,median_ms,p95_ms,image
+/home/yanzz/Documents/P2 - Transfer Learning./models/resnet18_feature.pth,cuda,1,20,100,1.2476017098924785,1.246969500243722,1.2521019998530392,/home/yanzz/Documents/P2 - Transfer Learning./box_merah/box_merah__frame_000000000.jpg
+/home/yanzz/Documents/P2 - Transfer Learning./models/resnet18_partial.pth,cuda,1,20,100,1.255846730164194,1.2468925006032805,1.2539100007415982,/home/yanzz/Documents/P2 - Transfer Learning./box_merah/box_merah__frame_000000000.jpg
+/home/yanzz/Documents/P2 - Transfer Learning./models/resnet18_scratch.pth,cuda,1,20,100,1.2472377499580034,1.2466170001061982,1.252758000191534,/home/yanzz/Documents/P2 - Transfer Learning./box_merah/box_merah__frame_000000000.jpg
