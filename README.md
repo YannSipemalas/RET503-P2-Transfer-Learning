@@ -110,14 +110,3 @@ Contoh Output Terminal:
    Hasil Prediksi : BOX_COKELAT
    Tingkat Keyakinan (Confidence): 99.85%
   ========================================
-
----
-
-##  6. File Hasil Keluaran (Output Artifacts)
-- models/resnet18_feature.pth : Checkpoint model mode feature extraction.
-- models/resnet18_partial.pth : Checkpoint model mode fine-tuning parsial.
-- models/resnet18_scratch.pth : Checkpoint model mode scratch.
-- results/accuracy_comparison.png : Grafik kurva akurasi validasi per epoch.
-- results/experiments.csv : Catatan ringkasan akurasi & waktu latih.
-- results/latency.csv : Catatan hasil benchmark latensi.
-EOF
