@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # P2 — Klasifikasi Objek Box Industri pada Robot Visi
 
 Project ini membandingkan tiga strategi pelatihan ResNet18 untuk klasifikasi dua kelas komponen objek industri: **Box Merah** (`box_merah`) dan **Box Cokelat** (`box_cokelat`).
